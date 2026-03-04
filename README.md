@@ -7,23 +7,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=👋+Hi%2C+I'm+Madhuri+Sonawane!;💻+Full+Stack+Developer;🐍+Python+%26+React+Enthusiast;🍃+Node.js+%26+MongoDB+Backend+Dev;🎬+Built+Cineflex+with+GSAP+%26+TMDB+API;🤖+AI+SaaS+Dashboard+with+Gemini+API;🚀+MCA+Graduate+%7C+Sandip+University!" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Madhuri-Sonawane&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/madhuri-sonawane-42a305368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://react-portfolio-gold-delta.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:madhurisonawane0103@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
 </div>
 
 ---
@@ -151,20 +134,6 @@ me.say_hi()
 - 👤 Buyer & seller role-based access
 
 📂 [Source Code](https://github.com/Madhuri-Sonawane/multivendor-ecommerce-platform)
-
----
-
-### 🍽️ Restaurant Management System
-> A web-based system to manage restaurant operations, menu items, and orders.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-- 🍕 Menu management & order tracking
-- 👥 Staff & table management
-
-📂 [Source Code](https://github.com/Madhuri-Sonawane)
 
 ---
 
