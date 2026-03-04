@@ -1,15 +1,3 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhuri%20Sonawane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20React%20Enthusiast&descAlignY=55&descSize=18"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=👋+Hi%2C+I'm+Madhuri+Sonawane!;💻+Full+Stack+Developer;🐍+Python+%26+React+Enthusiast;🍃+Node.js+%26+MongoDB+Backend+Dev;🎬+Built+Cineflex+with+GSAP+%26+TMDB+API;🤖+AI+SaaS+Dashboard+with+Gemini+API;🚀+MCA+Graduate+%7C+Sandip+University!" alt="Typing SVG" />
-</a>
-</div>
-
----
 
 ## 🌟 About Me
 
@@ -37,7 +25,7 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
