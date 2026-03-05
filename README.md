@@ -1,30 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhuri%20Sonawane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20React%20Enthusiast&descAlignY=55&descSize=18"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=👋+Hi%2C+I'm+Madhuri+Sonawane!;💻+Full+Stack+Developer;🎬+Built+Cineflex+with+GSAP+%26+TMDB+API;🤖+AI+SaaS+Dashboard+with+Gemini+API;🚀+MCA+Graduate+%7C+Sandip+University!" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Madhuri-Sonawane&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-  <a href="https://www.linkedin.com/in/madhuri-sonawane-42a305368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://react-portfolio-gold-delta.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:madhurisonawane0103@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
 ## 🌟 About Me
 
 Hey there! I'm **Madhuri Sonawane**, a passionate **Full Stack Developer** from Pune, Maharashtra 🇮🇳, and an **MCA Graduate (2024)** from Sandip University.
@@ -89,6 +62,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
       <img src="https://img.shields.io/badge/AI_Agent-8E24AA?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
+    <br/><br/>
     <td width="50%" valign="top" align="center">
       <h3>🤖 AI SaaS Dashboard</h3>
       <p>Modern analytics dashboard powered by Google Gemini AI with Firebase auth, Firestore database, and Recharts visualizations.</p>
@@ -109,6 +83,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
     </td>
   </tr>
+      <br/><br/>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🛒 Multivendor E-Commerce</h3>
@@ -125,6 +100,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
+    <br/><br/>
     <td width="50%" valign="top" align="center">
       <h3>🌐 Personal Portfolio</h3>
       <p>A sleek React portfolio showcasing my projects, skills, and contact information — live on Vercel.</p>
