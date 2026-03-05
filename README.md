@@ -41,7 +41,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 
 ## 🚀 Featured Projects
 
-<table align="center" cellpadding="8" cellspacing="0">
+<table align="center" cellpadding="8" cellspacing="0" cellmargin="3">
   <tr>
     <td width="50%" valign="top" align="center" margin="2px">
       <h3>🎬 Cineflex — AI Movie Platform</h3>
