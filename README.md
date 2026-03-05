@@ -70,17 +70,72 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 
 <div align="center">
 
-| 🎬 Cineflex — AI Movie Platform | 🤖 AI SaaS Dashboard |
-|---|---|
-| Netflix-inspired movie discovery app with GSAP animations, TMDB API & a built-in AI agent for personalized recommendations. | Modern SaaS analytics dashboard powered by Google Gemini AI with Firebase auth, Firestore, and beautiful Recharts visualizations. |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) ![TMDB](https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white) |
-| [🔗 Live Demo](https://cine-flix-pi.vercel.app/profiles) \| [📂 Source Code](https://github.com/Madhuri-Sonawane) | [📂 Source Code](https://github.com/Madhuri-Sonawane/as-saas-dashboard) \| 🔧 *Live link coming soon* |
+### 🎬 Cineflex — AI-Powered Movie Platform
 
-| 🛒 Multivendor E-Commerce | 🍽️ Restaurant Management System |
-|---|---|
-| Full-featured multivendor marketplace where sellers can list products and buyers can shop seamlessly with role-based access. | Web-based system to manage restaurant operations, menu items, staff, and orders efficiently. |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [📂 Source Code](https://github.com/Madhuri-Sonawane/multivendor-ecommerce-platform) | [📂 Source Code](https://github.com/Madhuri-Sonawane) |
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4CAF50?style=for-the-badge)](https://cine-flix-pi.vercel.app/profiles)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/Madhuri-Sonawane)
+
+Netflix-inspired movie discovery app with smooth GSAP animations, TMDB API integration, and a built-in AI agent for personalized recommendations.
+
+`React` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `GSAP` &nbsp;·&nbsp; `TMDB API` &nbsp;·&nbsp; `Vite` &nbsp;·&nbsp; `Vercel`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤖 AI SaaS Dashboard
+
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/Madhuri-Sonawane/as-saas-dashboard)
+![Coming Soon](https://img.shields.io/badge/🔧_Live_Link-Coming_Soon-orange?style=for-the-badge)
+
+Modern analytics dashboard powered by Google Gemini AI with Firebase authentication, Firestore database, and interactive Recharts visualizations.
+
+`React` &nbsp;·&nbsp; `Tailwind CSS v4` &nbsp;·&nbsp; `Vite` &nbsp;·&nbsp; `Firebase Auth` &nbsp;·&nbsp; `Firestore` &nbsp;·&nbsp; `Gemini API` &nbsp;·&nbsp; `Recharts` &nbsp;·&nbsp; `React Router`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛒 Multivendor E-Commerce Platform
+
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/Madhuri-Sonawane/multivendor-ecommerce-platform)
+
+Full-featured multivendor marketplace with role-based access for buyers and sellers, cart management, and order tracking.
+
+`JavaScript` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `Express.js`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🍽️ Restaurant Management System
+
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/Madhuri-Sonawane)
+
+Web-based system to manage restaurant operations including menu items, staff, tables, and order tracking.
+
+`PHP` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `HTML` &nbsp;·&nbsp; `CSS`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Personal Portfolio
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4CAF50?style=for-the-badge)](https://react-portfolio-gold-delta.vercel.app/)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-24292e?style=for-the-badge&logo=github)](https://github.com/Madhuri-Sonawane)
+
+A sleek React portfolio showcasing my projects, skills, and contact information.
+
+`React` &nbsp;·&nbsp; `Vercel`
 
 </div>
 
