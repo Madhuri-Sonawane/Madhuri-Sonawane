@@ -41,9 +41,9 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 
 ## 🚀 Featured Projects
 
-<table align="center" cellpadding="8" cellspacing="0" cellmargin="3">
+<table align="center" cellpadding="8" cellspacing="0" >
   <tr>
-    <td width="50%" valign="top" align="center" margin="2px">
+    <td width="50%" valign="top" align="center">
       <h3>🎬 Cineflex — AI Movie Platform</h3>
       <p>Netflix-inspired movie discovery app with GSAP animations, TMDB API, and a built-in AI agent for personalized recommendations.</p>
       <a href="https://cine-flix-pi.vercel.app/profiles"><img src="https://img.shields.io/badge/🔗 Live Demo-4CAF50?style=for-the-badge"/></a>
@@ -62,7 +62,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
       <img src="https://img.shields.io/badge/AI_Agent-8E24AA?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
-    <td width="50%" valign="top" align="center" margin="2px">
+    <td width="50%" valign="top" align="center">
       <h3>🤖 AI SaaS Dashboard</h3>
       <p>Modern analytics dashboard powered by Google Gemini AI with Firebase auth, Firestore database, and Recharts visualizations.</p>
       <a href="https://github.com/Madhuri-Sonawane/as-saas-dashboard"><img src="https://img.shields.io/badge/📂 Source-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -83,7 +83,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center" margin="2px">
+    <td width="50%" valign="top" align="center">
       <h3>🛒 Multivendor E-Commerce</h3>
       <p>Full-featured multivendor marketplace with role-based access for buyers and sellers, cart management, and order tracking.</p>
       <a href="https://github.com/Madhuri-Sonawane/multivendor-ecommerce-platform"><img src="https://img.shields.io/badge/📂 Source-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -98,7 +98,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
-    <td width="50%" valign="top" align="center" margin="2px">
+    <td width="50%" valign="top" align="center">
       <h3>🌐 Personal Portfolio</h3>
       <p>A sleek React portfolio showcasing my projects, skills, and contact information — live on Vercel.</p>
       <a href="https://react-portfolio-gold-delta.vercel.app/"><img src="https://img.shields.io/badge/🔗 Live Demo-4CAF50?style=for-the-badge"/></a>
@@ -137,14 +137,6 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 | 🐍 Advanced Python | `██████████████░░░░░░` 70% | Advancing |
 | 🤖 RPA (Robotic Process Automation) | `████████░░░░░░░░░░░░` 40% | Learning |
 | 🧠 AI / ML Integrations | `██████████░░░░░░░░░░` 50% | Exploring |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madhuri-Sonawane&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1"/>
-</div>
 
 ---
 
