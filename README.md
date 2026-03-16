@@ -137,6 +137,8 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 | 🐍 Advanced Python | `██████████████░░░░░░` 70% | Advancing |
 | 🤖 RPA (Robotic Process Automation) | `████████░░░░░░░░░░░░` 40% | Learning |
 | 🧠 AI / ML Integrations | `██████████░░░░░░░░░░` 50% | Exploring |
+|  🔥 SEO | `██████████░░░░░░░░░░` 80% | Exploring |
+
 
 ---
 
