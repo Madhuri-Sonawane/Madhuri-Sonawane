@@ -1,6 +1,6 @@
 ## 🌟 About Me
 
-Hey there! I'm **Madhuri Sonawane**, a passionate **Full Stack Developer** from Pune, Maharashtra 🇮🇳, and an **MCA Graduate (2024)** from Sandip University.
+ I'm **Madhuri Sonawane**, a passionate **Full Stack Developer** from Pune, Maharashtra 🇮🇳, and an **MCA Graduate (2024)** from Sandip University.
 
 I love turning ideas into real, working applications — whether it's a Netflix-style movie platform with AI recommendations or a sleek SaaS dashboard powered by Google Gemini. My sweet spot is the **MERN stack**, and I'm always exploring new tools, APIs, and animations to level up my builds.
 
