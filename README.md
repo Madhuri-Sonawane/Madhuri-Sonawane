@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Madhuri+Sonawane+%F0%9F%91%8B;Full+Stack+MERN+Developer;AI+%2B+Web+Apps+Builder;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+
+</div>
+
 ## 🌟 About Me
 
- I'm **Madhuri Sonawane**, a passionate **Full Stack Developer** from Pune, Maharashtra 🇮🇳, and an **MCA Graduate (2024)** from Sandip University.
+I'm **Madhuri Sonawane**, a passionate **Full Stack Developer** from Pune, Maharashtra 🇮🇳, and an **MCA Graduate (2024)** from Sandip University.
 
 I love turning ideas into real, working applications — whether it's a Netflix-style movie platform with AI recommendations or a sleek SaaS dashboard powered by Google Gemini. My sweet spot is the **MERN stack**, and I'm always exploring new tools, APIs, and animations to level up my builds.
 
@@ -18,6 +24,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -30,6 +37,7 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -118,14 +126,20 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Madhuri-Sonawane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri-Sonawane&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Madhuri-Sonawane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri-Sonawane&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuri-Sonawane&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=Madhuri-Sonawane&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Madhuri-Sonawane&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+> 💡 If any card above still shows a fetch error, it's usually a temporary rate-limit on GitHub's public API from the free hosted service — reload the page after a minute. These services rebuild the image on every view.
 
 ---
 
@@ -136,10 +150,8 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 | 🔥 MERN Stack | `████████████████████` 100% | Expertise |
 | 🐍 Advanced Python | `██████████████░░░░░░` 70% | Advancing |
 | 🤖 RPA (Robotic Process Automation) | `████████░░░░░░░░░░░░` 40% | Learning |
-|  🔥 SEO | `█████████████████░` 90% | Exploring |
-|  Digital Marketing | `█████████████████` 100% | Expertise |
-
-
+| 🔥 SEO | `█████████████████░░░` 90% | Exploring |
+| 📈 Digital Marketing | `████████████████████` 100% | Expertise |
 
 ---
 
@@ -166,6 +178,8 @@ I love turning ideas into real, working applications — whether it's a Netflix-
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now!-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Madhuri-Sonawane&label=Profile%20Views&color=6,11,20&style=flat-square" alt="Profile views"/>
 
 *⭐ Always open to learning opportunities, collaborations, and exciting projects!*
 
