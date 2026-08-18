@@ -2,8 +2,8 @@ name: Generate GitHub Profile Metrics
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # regenerates once a day, automatically
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -17,8 +17,28 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_limit: 8
+
+          # Sections shown, in order. Dropped "community" and "repositories"
+          # since they were mostly empty with only 1 public repo — the
+          # contribution heatmap and achievement badges below look far more
+          # impressive with limited history than a list full of zeros.
+          base: header, activity, isocalendar, achievements
+
+          # Bigger card, easier to read
+          config_display: large
           config_timezone: Asia/Kolkata
+
+          # Green-square contribution heatmap, full year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Gamified badges (account age, streaks, stars, etc.) — these
+          # render nicely even with a shorter GitHub history
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          # Language breakdown — raised the timeout (was 15s, too short to
+          # finish analysis, which is why it showed "0 Languages" before)
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 25
+          plugin_languages_limit: 8
