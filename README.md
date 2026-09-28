@@ -145,11 +145,10 @@ I love turning ideas into real, working applications — whether it's a Netflix-
 
 | Skill | Progress | Level |
 |---|---|---|
-| 🔥 MERN Stack | `████████████████████` 100% | Expertise |
-| 🐍 Advanced Python | `██████████████░░░░░░` 70% | Advancing |
-| 🤖 RPA (Robotic Process Automation) | `████████░░░░░░░░░░░░` 40% | Learning |
-| 🔥 SEO | `█████████████████░░░` 90% | Exploring |
-| 📈 Digital Marketing | `████████████████████` 100% | Expertise |
+| 🔥 MERN Stack | `████████████████████100%| Expertise |
+| 🐍 Advanced Python | `██████████████░░░░░░ 70% | Advancing |
+| 🤖 Software Development | `████████████████░░░░ 80% | Advancing |
+| 📈 Digital Marketing and 🔥 SEO  | `████████████████████` 100% | Expertise |
 
 ---
 
